@@ -1,6 +1,6 @@
 # Github Repository for AP Art History (Medieval) Webpage
 
-The website can be accessed [here](https://medieval-art-history.netlify.app).
+The website can be accessed [here]((http://medieval.latinfolk.org)).
 
 This webpage was created for the 2020-2022 school years, serving as an aid to self-study AP Art History, and possibly as a classroom complement.
 
